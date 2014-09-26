@@ -1,4 +1,3 @@
-kivory11.github.io
+KatieIvory.com  
 ==================
-
-Personal Website
+I'm learning HTML and CSS so if you see any edits please let me know!
