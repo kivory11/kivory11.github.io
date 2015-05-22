@@ -231,8 +231,8 @@ jQuery(document).ready(function(){
 	// Needed variables
 	var $map 				= $('#map'),
 		$tabContactClass 	= ('tab-contact'),
-		$lat 				= '40.712784',
-		$lon 				= '-74.005941';
+		$lat 				= '29.951066',
+		$lon 				= '-90.071532';
 
 	$map.gmap().bind('init', function(ev, map) {
 		$map.gmap('addMarker', {'position': $lat +','+ $lon  , 'bounds': true}).click(function() {
